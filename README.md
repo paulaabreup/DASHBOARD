@@ -3,9 +3,12 @@
 Este projeto  foi desenvolvido como avaliação prática para a disciplina de Probabilidade e Estatística. O sistema processa uma base de dados robusta do Spotify (mais de 113.000 faixas e 31.000 artistas) para fornecer uma plataforma de análise exploratória de dados (EDA) totalmente dinâmica. 
 
 O objetivo principal é permitir a investigação estatística autónoma, identificando padrões de consumo, distribuições de frequência, e correlações lineares entre propriedades acústicas e popularidade, garantindo a imparcialidade analítica.
+<img width="1365" height="644" alt="image" src="https://github.com/user-attachments/assets/1a4ffe24-1a3f-441e-968a-2dcd6732178a" />
+
 
 
 ## 🎛️ Motor de Filtragem Dinâmica (Barra Lateral)
+<img width="239" height="642" alt="image" src="https://github.com/user-attachments/assets/27d0bebe-ad6f-4c1b-9d49-1c0c91d5b326" />
 
 O painel lateral atua como o motor de afunilamento de dados em tempo real. O utilizador pode segmentar a base global utilizando múltiplos parâmetros simultâneos:
 * **Género musical:** Caixa de seleção múltipla (ex: pop, rock, acoustic).
@@ -17,6 +20,8 @@ O painel lateral atua como o motor de afunilamento de dados em tempo real. O uti
 ## 📊 Arquitetura Analítica (Abas de Exploração)
 
 O painel está estruturado em seis eixos de análise estatística interativa:
+<img width="1127" height="323" alt="image" src="https://github.com/user-attachments/assets/12f9cc5f-745d-4bc4-9b2d-0e2410d0e92f" />
+
 
 ### 1. Visão Geral
 Atua como o resumo executivo dos dados populacionais filtrados. Apresenta *cards* de métricas de alto nível (Total de Registos, Artistas, Popularidade Média e Duração Média).Utiliza gráficos de barras horizontais para ranquear a frequência bruta de géneros musicais e avaliar o impacto do conteúdo explícito no volume do catálogo.
@@ -41,6 +46,8 @@ O núcleo de análise multivariável:
 
 ### 6. Extração de Dados
 Para garantir total transparência, exibe a *dataframe* resultante de todos os filtros aplicados numa tabela interativa. Inclui um módulo de exportação para que o utilizador descarregue o recorte de dados em formato CSV para modelagem externa.
+<img width="1366" height="644" alt="image" src="https://github.com/user-attachments/assets/5dbadc9f-7d86-470d-ae6c-69df92acec4b" />
+
 
 
 ## 💻 Tecnologias Empregadas
