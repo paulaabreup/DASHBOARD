@@ -35,8 +35,12 @@ Uma aba de microanálise dedicada à dissecação de portefólios individuais. A
 ### 4. Distribuições (Análise de Dispersão e Outliers)
 Essencial para a validação de hipóteses estatísticas:
 * **Histogramas de Frequência:** Analisa a densidade populacional das variáveis contínuas, evidenciando a assimetria na distribuição da Duração das Músicas e da Popularidade global.
-  
+
+  ![Uploading image.png…]()
+
 * **Boxplots (Diagramas de Caixa):** Segmenta a popularidade pelo género musical. Permite identificar rapidamente a mediana de cada estilo e localizar visualmente todos os *outliers* (pontos anómalos que fogem do limite superior ou inferior da variância normal).
+
+<img width="1130" height="423" alt="image" src="https://github.com/user-attachments/assets/6fefe2fd-a1ec-4817-9e9b-61cc6d66efbd" />
 
 ### 5. Relações (Correlações e Cruzamentos)
 O núcleo de análise multivariável:
