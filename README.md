@@ -36,7 +36,6 @@ Uma aba de microanálise dedicada à dissecação de portefólios individuais. A
 Essencial para a validação de hipóteses estatísticas:
 * **Histogramas de Frequência:** Analisa a densidade populacional das variáveis contínuas, evidenciando a assimetria na distribuição da Duração das Músicas e da Popularidade global.
 
-  ![Uploading image.png…]()
 
 * **Boxplots (Diagramas de Caixa):** Segmenta a popularidade pelo género musical. Permite identificar rapidamente a mediana de cada estilo e localizar visualmente todos os *outliers* (pontos anómalos que fogem do limite superior ou inferior da variância normal).
 
